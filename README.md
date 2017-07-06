@@ -10,22 +10,22 @@ This content is designed for audience without any prior Machine learning knowled
 | Time (min) | Activity |
 | ---        | ---      |
 | 50         | [Introduction to Machine Learning](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/000-into-machine-learning.pptx) |
-| 20         | Lab1 - [Setting up development environment](./001-lab-setup.md) |
-| 45         | Lab2 - [Introduction to R, Python & Data Synth](./002-lab-data-synth.md) |
-| 45         | Lab3 - [AzureML Experiments & Data Interaction](./003-lab-data-interact.md) |
-| 60         | Lab4 - [Develop and Consume AzureML Models](./004-lab-azureml-experiment.md) |
-| 45         | Lab5 - [Custom Scripts (R & Python) in AML](./005-lab-custom-script-r-python.md) |
-| 60         | Lab6 - [Evaluate model performance in AML](./006-lab-model-evaluation.md) |
-| 60         | Lab7 - [Azure ML Batch Score, Retrain, Production and Automatization](./007-lab-production-ops.md) |
-| 45         | Lab8 - [Recommendation System](./008-lab-recommendation-system.md) |
-| 45         | Lab9 - [Monetizing Azure ML Solution](./009-lab-monetization.md) |
-| 90         | Lab10 - [Case Study: Optical character recognition](./010-lab-cs-ocr.md) |
+| 20         | Lab1 - [Setting up development environment](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/001-lab-setup.md) |
+| 45         | Lab2 - [Introduction to R, Python & Data Synth](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/002-lab-data-synth.md) |
+| 45         | Lab3 - [AzureML Experiments & Data Interaction](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/003-lab-data-interact.md) |
+| 60         | Lab4 - [Develop and Consume AzureML Models](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/004-lab-azureml-experiment.md) |
+| 45         | Lab5 - [Custom Scripts (R & Python) in AML](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/005-lab-custom-script-r-python.md) |
+| 60         | Lab6 - [Evaluate model performance in AML](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/006-lab-model-evaluation.md) |
+| 60         | Lab7 - [Azure ML Batch Score, Retrain, Production and Automatization](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/007-lab-production-ops.md) |
+| 45         | Lab8 - [Recommendation System](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/008-lab-recommendation-system.md) |
+| 45         | Lab9 - [Monetizing Azure ML Solution](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/009-lab-monetization.md) |
+| 90         | Lab10 - [Case Study: Optical character recognition](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/010-lab-cs-ocr.md) |
 
 ### **Detailed contents of the HOL**
 
- - [Introduction to Machine Learning](./000-into-machine-learning.pptx)
+ - [Introduction to Machine Learning](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/000-into-machine-learning.pptx)
     
-1. [Setting up development environment](./001-lab-setup.md)  
+1. [Setting up development environment](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/001-lab-setup.md)  
     * Overview
         * Objectives
         * Requirements
@@ -34,7 +34,7 @@ This content is designed for audience without any prior Machine learning knowled
     * Install R and R Studio  
     * Install Anaconda Python  
 
-2. [Introduction to R, Python & Data Synth](./002-lab-data-synth.md)  
+2. [Introduction to R, Python & Data Synth](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/002-lab-data-synth.md)  
     * Overview
         * Objectives
         * Requirements
@@ -46,7 +46,7 @@ This content is designed for audience without any prior Machine learning knowled
         * Microsoft Azure Blob Storage
     * Other Dataset sources
 
-3. [AzureML Experiments & Data Interaction](./003-lab-data-interact.md)  
+3. [AzureML Experiments & Data Interaction](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/003-lab-data-interact.md)  
     * Overview
         * Objectives
         * Requirements
@@ -60,7 +60,7 @@ This content is designed for audience without any prior Machine learning knowled
         * Access data on Azure SQL Database
         * Get data from an HTTP web request
 
-4. [Develop and Consume AzureML Models](./004-lab-azureml-experiment.md)
+4. [Develop and Consume AzureML Models](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/004-lab-azureml-experiment.md)
     * Overview
         * Objectives
         * Requirements
@@ -71,7 +71,7 @@ This content is designed for audience without any prior Machine learning knowled
         * Consume the ML Web Service in a C# application
         * Input data type
 
-5. [Custom Scripts (R & Python) in AML](./005-lab-custom-script-r-python.md)
+5. [Custom Scripts (R & Python) in AML](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/005-lab-custom-script-r-python.md)
     * Overview
         * Objectives
         * Requirements
@@ -80,7 +80,7 @@ This content is designed for audience without any prior Machine learning knowled
         * Using Python Script module
         * R & Python compatibility with Azure ML
 
-6. [Evaluate model performance in AML](./006-lab-model-evaluation.md)
+6. [Evaluate model performance in AML](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/006-lab-model-evaluation.md)
     * Overview
         * Objectives
         * Requirements
@@ -99,7 +99,7 @@ This content is designed for audience without any prior Machine learning knowled
         * Which feature is or is not important?
         * Simpler method to measure a feature’s importance
 
-7. [Azure ML Batch Score, Retrain, Production and Automatization](./007-lab-production-ops.md)
+7. [Azure ML Batch Score, Retrain, Production and Automatization](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/007-lab-production-ops.md)
     * Overview
         * Objectives
         * Requirements
@@ -111,7 +111,7 @@ This content is designed for audience without any prior Machine learning knowled
             * Web Service Input/Output Parameter alternatives
     * Azure ML Retraining
 
-8. [Recommendation System](./008-lab-recommendation-system.md)
+8. [Recommendation System](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/008-lab-recommendation-system.md)
     * Overview
         * Objectives
         * Requirements
@@ -120,7 +120,7 @@ This content is designed for audience without any prior Machine learning knowled
     * Find related users
     * Find related items
     * What to recommend for a brand new user?
-9. [Monetizing Azure ML Solution](./009-lab-monetization.md)
+9. [Monetizing Azure ML Solution](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/009-lab-monetization.md)
     * Overview
         * Objectives
         * Requirements
@@ -130,7 +130,7 @@ This content is designed for audience without any prior Machine learning knowled
     * Restrict or Rate limit your Web Service
     * Test and Publish your Web Service
 
-10. [Case Study: Optical character recognition](./010-lab-cs-ocr.md)
+10. [Case Study: Optical character recognition](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/010-lab-cs-ocr.md)
     * Overview
         * Objectives
         * Requirements
