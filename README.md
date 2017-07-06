@@ -9,7 +9,7 @@ This content is designed for audience without any prior Machine learning knowled
 
 | Time (min) | Activity |
 | ---        | ---      |
-| 50         | [Introduction to Machine Learning](./000-into-machine-learning.pptx) |
+| 50         | [Introduction to Machine Learning](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/000-into-machine-learning.pptx) |
 | 20         | Lab1 - [Setting up development environment](./001-lab-setup.md) |
 | 45         | Lab2 - [Introduction to R, Python & Data Synth](./002-lab-data-synth.md) |
 | 45         | Lab3 - [AzureML Experiments & Data Interaction](./003-lab-data-interact.md) |
