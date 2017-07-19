@@ -44,7 +44,7 @@ This content is designed for audience without any prior Machine learning knowled
         * Python
         * Microsoft Azure SQL Server
         * Microsoft Azure Blob Storage 
-    * Other Dataset sources (Use https://kayazureml.blob.core.windows.net/aml-hol/forestfires.csv instead) 
+    * Other Dataset sources (Use https://kayazureml.blob.core.windows.net/aml-hol/forestfires.csv instead of the link in the documentation (http://www.dsi.uminho.pt/~pcortez/forestfires/forestfires.csv).) 
 
 3. [AzureML Experiments & Data Interaction](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/003-lab-data-interact.md)  
     * Overview
